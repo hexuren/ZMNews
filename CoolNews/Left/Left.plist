@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageName</key>
+		<string>left_icon_home</string>
+		<key>imageName_on</key>
+		<string>left_icon_home_on</string>
+		<key>title</key>
+		<string>热门</string>
+		<key>cid</key>
+		<string>0</string>
+		<key>urlstring</key>
+		<string>http://api.tuicool.com/api/articles/hot.json?cid=0&amp;size=30</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>left_icon_message</string>
+		<key>imageName_on</key>
+		<string>left_icon_message_on</string>
+		<key>title</key>
+		<string>科技</string>
+		<key>cid</key>
+		<string>101000000</string>
+		<key>urlstring</key>
+		<string>http://api.tuicool.com/api/articles/hot.json?cid=101000000&amp;size=30</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>left_icon_work</string>
+		<key>imageName_on</key>
+		<string>left_icon_work_on</string>
+		<key>title</key>
+		<string>设计</string>
+		<key>cid</key>
+		<string>108000000</string>
+		<key>urlstring</key>
+		<string>http://api.tuicool.com/api/articles/hot.json?cid=108000000&amp;size=30</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>left_icon_data</string>
+		<key>imageName_on</key>
+		<string>left_icon_data_on</string>
+		<key>title</key>
+		<string>营销</string>
+		<key>cid</key>
+		<string>114000000</string>
+		<key>urlstring</key>
+		<string>http://api.tuicool.com/api/articles/hot.json?cid=114000000&amp;size=30</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>left_icon_game</string>
+		<key>imageName_on</key>
+		<string>left_icon_game_on</string>
+		<key>title</key>
+		<string>扫雷</string>
+	</dict>
+</array>
+</plist>
